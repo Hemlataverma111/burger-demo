@@ -1,0 +1,16 @@
+.header1{
+    color: white;
+    background-color: black;
+    margin: 200px;
+}.header1 ul{
+    overflow: auto;
+    padding: 0;
+    margin-top: 20px;
+}
+.header1 ul li{
+    float: left;
+    list-style: none;
+    padding: 5px 45px;
+    justify-content: center;
+    color: white;
+}
